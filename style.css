@@ -1,0 +1,70 @@
+.col_img{
+    background-image: url("images/header.png");
+    height: 800px;
+
+    
+
+}
+
+.col_img1{
+    background-image: url('images/title_background.png');
+    height: 750px;
+    color: white;
+    
+}
+
+
+.bg_color{
+    background-color: #303030;
+}
+
+@font-face {
+    font-family:'grand' ;
+    src: url('fonts/GrandHotel-Regular.otf');
+
+}
+
+.title_color{
+    font-family: 'grand';
+    color: #ffc200 ;
+}
+
+.MENU{
+    height: 50px;
+}
+
+.title_color1{
+    font-family: 'grand';
+    color: #333333;
+}
+
+.bg_image1{
+    background-image: url('images/orientalBackground.png');
+}
+
+.bg_image2{
+    background-image: url('images/title_background.png');
+    background-size: 100%;
+    height: 300px;
+    
+    
+}
+
+.dot {
+
+    height: 130px;
+    width: 150px;
+    background-color: #333333;
+    border-radius: 100%;
+    border: 4px solid;
+    display: inline-block;
+    border-color: white;
+    padding: 30px;
+    
+  }
+
+  .bg_image3{
+    background-image: url('images/orientalBackground2.png');
+    background-size: 100%;
+  }
+  
